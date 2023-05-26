@@ -23,7 +23,7 @@
 <a href="https://twitter.com/anjalinv803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anjalinv803" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anjali-n-v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjali-n-v" height="30" width="40" /></a>
 <a href="[https://www.youtube.com/c/one minute update](https://www.youtube.com/channel/UCCE77w9YM86RgNZaqjsNiGA)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="one minute update" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anjali n v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anjali n v" height="30" width="40" /></a>
+<a href="[https://www.hackerrank.com/anjali n v](https://www.hackerrank.com/anjaliprathees_1?hr_r=1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anjali n v" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anjali nv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anjali nv" height="30" width="40" /></a>
 </p>
 
