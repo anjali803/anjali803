@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://rishavchanda.io)
+<!-- [![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Anjali N V</h1>
 <h3 align="center">"Learning the Ropes: A Student's Experience with Web Development, Android, and More"</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
