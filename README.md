@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/anjali803" target="blank"><img src="https://img.shields.io/twitter/follow/anjali803?logo=twitter&style=for-the-badge" alt="anjali803" /></a> </p>
 
-- 🔭 I’m currently working on **PneumoAI**
-
-- 💬 Ask me about **Html/CSS, react**
+- 💬 Ask me about **Frontend development**
 
 - 📫 How to reach me **anjaliprathees.nv@gmail.com**
 
